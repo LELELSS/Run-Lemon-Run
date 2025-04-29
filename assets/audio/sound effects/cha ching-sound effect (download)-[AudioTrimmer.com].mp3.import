@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c0ovmeipjtn4g"
+path="res://.godot/imported/cha ching-sound effect (download)-[AudioTrimmer.com].mp3-d9201225858cce6da00f6a8529977a9b.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/sound effects/cha ching-sound effect (download)-[AudioTrimmer.com].mp3"
+dest_files=["res://.godot/imported/cha ching-sound effect (download)-[AudioTrimmer.com].mp3-d9201225858cce6da00f6a8529977a9b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
